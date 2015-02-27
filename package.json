@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/dasilvacontin/YoAPITokenConcealer/issues"
   },
-  "homepage": "https://github.com/dasilvacontin/YoAPITokenConcealer"
+  "homepage": "https://github.com/dasilvacontin/YoAPITokenConcealer",
+  "devDependencies": {
+    "standard": "^2.10.0"
+  }
 }
