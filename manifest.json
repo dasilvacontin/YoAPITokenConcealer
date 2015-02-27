@@ -12,6 +12,10 @@
       "matches": ["http://dev.justyo.co/"],
       "js": ["extension.js"]
     }
-  ]
+  ],
+
+  "icons": {
+    "128": "icon128.png"
+  }
 
 }
