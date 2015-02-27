@@ -1,0 +1,29 @@
+{
+  "name": "YoAPITokenConcealer",
+  "version": "0.1.0",
+  "description": "Hides Yo API Tokens at Yo Dashboard. You can use the 'key' icon to toggle token visibility.",
+  "main": "extension.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dasilvacontin/YoAPITokenConcealer.git"
+  },
+  "keywords": [
+    "yo",
+    "app",
+    "token",
+    "dashboard",
+    "key",
+    "hide",
+    "conceal",
+    "concealer"
+  ],
+  "author": "dasilvacontin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasilvacontin/YoAPITokenConcealer/issues"
+  },
+  "homepage": "https://github.com/dasilvacontin/YoAPITokenConcealer"
+}
